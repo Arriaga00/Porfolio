@@ -3,8 +3,8 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
   name: "Andres Arriaga",
+  url: "https://arriagadev.vercel.app/",
   initials: "AR",
-  url: "https://dillion.io",
   location: "Medellin, Colombia",
   locationLink: "https://maps.app.goo.gl/5EXtTcG8nvdbUp8D7",
   description:
@@ -30,8 +30,8 @@ export const DATA = {
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "hello@example.com",
-    tel: "+123456789",
+    email: "arriaga.dev00@gmail.com",
+    tel: "+57 300721339",
     social: {
       GitHub: {
         name: "GitHub",
