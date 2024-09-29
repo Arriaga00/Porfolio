@@ -61,7 +61,7 @@ export const DATA = {
     {
       company: "Elyssa App",
       href: "https://www.linkedin.com/company/elyssa-app/posts/?feedView=all",
-      badges: ["Angular", "Node.js", "PostgreSQL", "Docker"],
+      badges: ["Angular", "PostgreSQL", "Docker"],
       location: "Remote",
       title: "Full Stack Developer",
       logoUrl:
