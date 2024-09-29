@@ -8,7 +8,7 @@ export const DATA = {
   location: "Medellin, Colombia",
   locationLink: "https://maps.app.goo.gl/5EXtTcG8nvdbUp8D7",
   description:
-    "Software Developer | Full Stack | React, Node Js. I love building things and helping people. Very active on LinkedIn.",
+    "Software Developer | Full Stack | React, Node Js. I am an expert in creating and developing new things and I would like to help you.",
   summary:
     "I have worked on various freelance and collaborative projects, developing complete solutions from user interface design to API implementation and database management. My main stack includes React for building interactive interfaces and Node.js for the robust and scalable backend.\n \nMy goal is to be able to help a team create efficient and scalable web applications that improve the user experience and optimize internal processes. I love the fact that I can contribute to the technological growth of a company. ",
   avatarUrl: "/me.jpeg",
